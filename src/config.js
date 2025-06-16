@@ -1,0 +1,2 @@
+export const MAX_MESSAGES_PER_THREAD = 10;
+export const CONTACT_THRESHOLD_DAYS = 30;
